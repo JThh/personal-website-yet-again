@@ -8,6 +8,6 @@ active: true
 author: admin
 design:
   background:
-    image: portfolio.jpeg
+    image: ""
     image_darken: 0
 ---
